@@ -1,3 +1,11 @@
+## v1.0.2
+
+- Merge branch 'main' of github.com:zjonescornelius/FlClash
+
+- 优化流程
+
+- Update changelog
+
 ## v1.0.1
 
 - Update release_telegram.py
