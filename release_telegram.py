@@ -8,7 +8,7 @@ RUN_ID = os.getenv("RUN_ID")
 
 IS_STABLE = "-" not in TAG
 
-CHAT_ID = "@Jimmy5052"
+CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 API_URL = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMediaGroup"
 
 DIST_DIR = os.path.join(os.getcwd(), "dist")
