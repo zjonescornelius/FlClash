@@ -1,3 +1,13 @@
+## v1.0.3
+
+- chore: bump version to 1.0.3
+
+- Merge branch 'main' of github.com:zjonescornelius/FlClash
+
+- Update changelog
+
+- v1.0.3
+
 ## v1.0.2
 
 - Merge branch 'main' of github.com:zjonescornelius/FlClash
