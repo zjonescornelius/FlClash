@@ -1,3 +1,10 @@
+## v1.0.1
+
+- Update release_telegram.py
+- Update release_telegram.py
+- Update release_telegram.py
+- Update changelog
+
 ## v0.8.87
 
 - Optimize desktop view
